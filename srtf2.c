@@ -1,5 +1,5 @@
-/* Aim: To implement SRTF Scheduling algorithm
-             Author: Rahul kumar */
+/* Aim: To implement SRTF Scheduling algorithm*/
+       
 #include <stdio.h>
 #define max 100
 
